@@ -1,0 +1,6 @@
+{
+  "name": "Phone Repair Register",
+  "description": "Professional workbench phone repair register & thermal sticker generator for Moroccan repair technicians.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
